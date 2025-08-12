@@ -1,15 +1,17 @@
 # streamlit run app.py
+
 import os
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 
 import streamlit as st
 from pathlib import Path
-from rag import get_page_splits, create_or_load_vector_store, build_rag_chain
+from rag import create_or_load_vector_store, build_rag_chain
 import pdf_utils
 from langchain_ollama import OllamaEmbeddings
+from langchain_chroma import Chroma
+from langchain_core.documents import Document
 from pdf2image import convert_from_path, exceptions
 from PIL import Image
-from langchain_chroma import Chroma
 
 # Path to vector DB folder
 VECTOR_DB_FOLDER = "vector_db"
@@ -54,7 +56,7 @@ selected_vector_db = st.selectbox("Select Vector DB or Upload New Document", vec
 
 
 # Model selection
-model_options = ["gpt-oss:20b", "llama2:13b", "mistral:7b", "nomic-embed-text"]
+model_options = ["gpt-oss:20b", "deepseek-r1:8b"]
 selected_model = st.selectbox("Select Model for Embeddings and Chat", model_options, index=0)
 
 # If 'Upload New Document' is selected, show the file uploader
@@ -83,7 +85,7 @@ if selected_vector_db == "Upload New Document":
                 chunks = [Document(page_content=md, metadata={"page": i+1}) for i, md in enumerate(pdf_text)]
 
                 # Initialize embeddings with selected model
-                embeddings = OllamaEmbeddings(model=selected_model, base_url="http://localhost:11434")
+                embeddings = OllamaEmbeddings(model='nomic-embed-text', base_url="http://localhost:11434")
 
                 # Create or load Chroma vector DB and store PDF along with it
                 vector_store = create_or_load_vector_store(uploaded_file.name.split(".")[0], chunks, embeddings)
@@ -103,7 +105,7 @@ elif selected_vector_db != "Upload New Document":
     collection_name = f"{selected_vector_db}_chroma"
     persist_directory = str(Path(VECTOR_DB_FOLDER) / collection_name)
     if os.path.exists(persist_directory):
-        embeddings = OllamaEmbeddings(model=selected_model, base_url="http://localhost:11434")
+        embeddings = OllamaEmbeddings(model='nomic-embed-text', base_url="http://localhost:11434")
         vector_store = Chroma(
             collection_name=collection_name,
             embedding_function=embeddings,
@@ -127,17 +129,21 @@ if st.button("Submit Question") and question and selected_vector_db != "Upload N
     with st.spinner("Answering your question..."):
         # Build retriever from the selected vector store (hybrid search placeholder)
         retriever = vector_store.as_retriever(search_type="mmr", search_kwargs={'k': 5})
+        context = retriever.invoke(question)  # Retrieve context based on the question
+
+        # st.write("Context retrieved:", context)  # Display the retrieved context for debugging
+
         # TODO: Add hybrid search logic here if needed
 
         # Build and run the RAG chain
-        rag_chain = build_rag_chain(retriever)
+        rag_chain = build_rag_chain(selected_model)
 
         # Create a placeholder for streaming response
         response_placeholder = st.empty()  # Create an empty placeholder for the answer
 
         # Stream the response as it is generated
         response = ""
-        for chunk in rag_chain.stream(question):
+        for chunk in rag_chain.stream({'context':context, 'question': question}):
             response += chunk  # Append each chunk of the response
             response_placeholder.markdown(response.replace('$', '\$'))  # Update the placeholder with the new response
 

@@ -6,7 +6,6 @@ from langchain_core.runnables import RunnablePassthrough
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_ollama import ChatOllama
 from langchain_chroma import Chroma
-from pdf_utils import get_pdf_text
 
 
 # Ensure the vector_db folder exists
@@ -34,7 +33,7 @@ def create_or_load_vector_store(filename, chunks, embeddings):
     return vector_store
 
 # Build RAG chain
-def build_rag_chain(retriever):
+def build_rag_chain(model):
     prompt = """
         You are an assistant for financial data analysis. Use the retrieved context to answer questions. 
         If you don't know the answer, say so. 
@@ -43,12 +42,6 @@ def build_rag_chain(retriever):
         Answer:
     """
     prompt_template = ChatPromptTemplate.from_template(prompt)
-    model = "gpt-oss:20b"
     llm = ChatOllama(model=model, base_url="http://localhost:11434")
-    return (
-        {"context": retriever | (lambda docs: "\n\n".join(doc.page_content for doc in docs)), 
-         "question": RunnablePassthrough()}
-        | prompt_template
-        | llm
-        | StrOutputParser()
-    )
+
+    return prompt_template | llm | StrOutputParser()
