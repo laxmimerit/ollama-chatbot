@@ -1,4 +1,4 @@
-# 🚀 Complete AI & Machine Learning Course Collection
+# 🚀 Complete AI & Machine Learning Course Collection 🚀
 
 <div align="center">
 
