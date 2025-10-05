@@ -38,7 +38,7 @@
 </div>
 
 <div align="center">
-<a href="https://www.udemy.com/course/mcp-mastery-build-ai-apps-with-claude-langchain-and-ollama/?couponCode=LOWEST" target="_blank">
+<a href="https://www.udemy.com/course/mcp-mastery-build-ai-apps-with-claude-langchain-and-ollama/?referralCode=31C17C306A59601B8689" target="_blank">
 <img src="https://img.shields.io/badge/🎓_Enroll_Now_→-FF6B35?style=for-the-badge&logoColor=white&labelColor=FF6B35" alt="Enroll Now" width="200"/>
 </a>
 </div>
