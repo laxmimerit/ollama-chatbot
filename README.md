@@ -4,10 +4,10 @@
 
 ![KGP Talkie](https://github.com/laxmimerit/Important-Announcement-on-ML/raw/master/kgptalkie_strips.png)
 
-![AI Development](https://img.shields.io/badge/AI-Development-blue?style=for-the-badge&logo=openai)
-![LangChain](https://img.shields.io/badge/LangChain-Latest-green?style=for-the-badge&logo=chainlink)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange?style=for-the-badge&logo=tensorflow)
-![Students](https://img.shields.io/badge/Students-100K+-red?style=for-the-badge&logo=graduation-cap)
+[![AI Development](https://img.shields.io/badge/AI-Development-blue?style=for-the-badge&logo=openai)](https://www.udemy.com/course/master-openai-agent-builder-low-code-ai-projects-workflow/?referralCode=B0B67D18B1013E488FB7)
+[![LangChain](https://img.shields.io/badge/LangChain-Latest-green?style=for-the-badge&logo=chainlink)](https://www.udemy.com/course/agentic-rag-with-langchain-and-langgraph/?referralCode=C0BCC208F53AF2C98AC5)
+[![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange?style=for-the-badge&logo=tensorflow)](https://www.udemy.com/course/python-for-machine-learning-and-data-science-projects/?referralCode=C2A381E2EC08C84FFBFE)
+[![Students](https://img.shields.io/badge/Students-100K+-red?style=for-the-badge&logo=graduation-cap)](https://www.udemy.com/user/laxmi-kant-tiwari/)
 
 **Master AI Development • Build Production Applications • Deploy at Scale**
 
@@ -18,6 +18,33 @@
 ---
 
 ## 🤖 LLM and AI Agent Development
+
+<details>
+<summary><strong>🎯 Master OpenAI Agent Builder - Low-Code AI Projects Workflow</strong></summary>
+
+> **🎯 Build and deploy AI agents visually using OpenAI Agent Builder, ChatKit, RAG, Chatbot, AI Assistant with MCP, AWS, RDS MySQL**
+
+**What You'll Master:**
+- ✅ **Visual AI Development:** Build AI agents without complex coding using OpenAI Agent Builder
+- ✅ **Real-World Integration:** Connect AI workflows with MySQL, AWS, and MCP connectors
+- ✅ **Production Deployment:** Deploy AI agents with ChatKit and Guardrails for safety
+- ✅ **Complete Projects:** Weather Agent, RAG Document Q&A Chatbot, E-Commerce AI Assistant
+- ✅ **Database Integration:** AWS RDS MySQL connection and management
+- ✅ **Cloud Deployment:** AWS Lambda and API Gateway for production use
+
+<div align="center">
+
+**🎯 Technologies:** OpenAI Agent Builder • ChatKit • AWS • RDS MySQL • MCP • Lambda • API Gateway
+
+</div>
+
+<div align="center">
+<a href="https://www.udemy.com/course/master-openai-agent-builder-low-code-ai-projects-workflow/?referralCode=B0B67D18B1013E488FB7" target="_blank">
+<img src="https://img.shields.io/badge/🎓_Enroll_Now_→-00A67E?style=for-the-badge&logoColor=white&labelColor=00A67E" alt="Enroll Now" width="200"/>
+</a>
+</div>
+
+</details>
 
 <details>
 <summary><strong>🔥 MCP Mastery: Build AI Apps with Claude, LangChain and Ollama</strong></summary>
@@ -344,11 +371,11 @@
 
 ### **🔧 Complete Technology Stack**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.udemy.com/course/python-for-machine-learning-and-data-science-projects/?referralCode=C2A381E2EC08C84FFBFE)
+[![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)](https://www.udemy.com/course/ollama-and-langchain/?referralCode=7F4C0C7B8CF223BA9327)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.udemy.com/course/python-for-deep-learning-and-artificial-intelligence/?referralCode=657DFC7FE7AF949837DA)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://www.udemy.com/course/fine-tuning-llm-with-hugging-face-transformers/?referralCode=6DEB3BE17C2644422D8E)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://www.udemy.com/course/nlp-with-bert-in-python/?referralCode=063516494616C76907CD)
 
 </div>
 
@@ -359,6 +386,7 @@
 <td width="33%">
 
 **🤖 AI & LLM**
+- OpenAI Agent Builder
 - LangChain
 - LangGraph
 - Ollama
@@ -385,6 +413,8 @@
 - Streamlit
 - Docker
 - AWS EC2
+- AWS Lambda
+- API Gateway
 - Vector Databases (FAISS, ChromaDB)
 - MySQL Integration
 
@@ -398,6 +428,8 @@
 
 ### 🤖 **AI/LLM Developer Path**
 ```
+Master OpenAI Agent Builder - Low-Code AI Projects Workflow
+↓
 Master Langchain and Ollama - Chatbot, RAG and Agents
 ↓
 Master LangGraph and LangChain with Ollama
@@ -440,6 +472,8 @@ Machine Learning & Data Science for Beginners in Python
 Deep Learning for Beginners with Python
 ↓
 Natural Language Processing in Python for Beginners
+↓
+Master OpenAI Agent Builder - Low-Code AI Projects Workflow
 ↓
 Master Langchain and Ollama - Chatbot, RAG and Agents
 ↓
@@ -484,10 +518,10 @@ Fine Tuning LLM with Hugging Face Transformers for NLP
 |---------------|-------------------|
 | **Total Students** | 100,000+ Active Learners |
 | **Course Rating** | ⭐⭐⭐⭐⭐ (4.8/5.0) |
-| **Courses Available** | 10+ Comprehensive Programs |
+| **Courses Available** | 11+ Comprehensive Programs |
 | **Hours of Content** | 100+ Hours of Learning |
 | **Projects Included** | 50+ Hands-on Projects |
-| **Technologies Covered** | 25+ Modern Frameworks |
+| **Technologies Covered** | 30+ Modern Frameworks |
 
 </div>
 
