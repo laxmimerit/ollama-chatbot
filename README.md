@@ -11,15 +11,13 @@
 
 **Master AI Development • Build Production Applications • Deploy at Scale**
 
-[🤖 LLM Development](#-llm-and-ai-agent-development) • [📊 Machine Learning](#-machine-learning-and-data-science) • [🚀 Production](#-production-and-deployment)
+[🦙 LangChain & Ollama](#-langchain--ollama) • [🤖 AI Agents](#-ai-agents--advanced) • [📊 Machine Learning](#-machine-learning-and-data-science) • [🚀 Production](#-production-and-deployment)
 
 </div>
 
 ---
 
-## 🤖 LLM and AI Agent Development
-
-### 🦙 LangChain & Ollama
+## 🦙 LangChain & Ollama
 
 <details>
 <summary><strong>🔥 MCP Mastery: Build AI Apps with Claude, LangChain and Ollama</strong></summary>
@@ -123,7 +121,7 @@
 
 </details>
 
-### 🤖 AI Agents & Advanced
+## 🤖 AI Agents & Advanced
 
 <details>
 <summary><strong>🚀 Agentic AI: Deploy LangChain v1 Agent Projects to Production</strong></summary>
