@@ -19,32 +19,7 @@
 
 ## 🤖 LLM and AI Agent Development
 
-<details>
-<summary><strong>🎯 Master OpenAI Agent Builder - Low-Code AI Projects Workflow</strong></summary>
-
-> **🎯 Build and deploy AI agents visually using OpenAI Agent Builder, ChatKit, RAG, Chatbot, AI Assistant with MCP, AWS, RDS MySQL**
-
-**What You'll Master:**
-- ✅ **Visual AI Development:** Build AI agents without complex coding using OpenAI Agent Builder
-- ✅ **Real-World Integration:** Connect AI workflows with MySQL, AWS, and MCP connectors
-- ✅ **Production Deployment:** Deploy AI agents with ChatKit and Guardrails for safety
-- ✅ **Complete Projects:** Weather Agent, RAG Document Q&A Chatbot, E-Commerce AI Assistant
-- ✅ **Database Integration:** AWS RDS MySQL connection and management
-- ✅ **Cloud Deployment:** AWS Lambda and API Gateway for production use
-
-<div align="center">
-
-**🎯 Technologies:** OpenAI Agent Builder • ChatKit • AWS • RDS MySQL • MCP • Lambda • API Gateway
-
-</div>
-
-<div align="center">
-<a href="https://kgptalkie.com/agent-builder" target="_blank">
-<img src="https://img.shields.io/badge/🎓_Enroll_Now_→-00A67E?style=for-the-badge&logoColor=white&labelColor=00A67E" alt="Enroll Now" width="200"/>
-</a>
-</div>
-
-</details>
+### 🦙 LangChain & Ollama
 
 <details>
 <summary><strong>🔥 MCP Mastery: Build AI Apps with Claude, LangChain and Ollama</strong></summary>
@@ -73,19 +48,19 @@
 </details>
 
 <details>
-<summary><strong>📊 Agentic RAG with LangChain and LangGraph - Ollama</strong></summary>
+<summary><strong>📊 Agentic AI - Private Agentic RAG with LangGraph and Ollama</strong></summary>
 
 > **🎯 Step-by-Step Guide to RAG with LangChain, LangGraph, and Ollama | DeepSeek R1, QWEN, LLAMA, FAISS**
 
 **Advanced RAG Techniques:**
 - 🧠 **Agentic RAG:** Intelligent, adaptive systems that act like smart assistants
-- 🔄 **Corrective RAG:** Self-improving and error-correcting mechanisms  
+- 🔄 **Corrective RAG:** Self-improving and error-correcting mechanisms
 - 📊 **Document Processing:** Doclings integration for seamless document loading
 - 🚀 **Production Ready:** Streamlit apps and AWS EC2 deployment
 
 <div align="center">
 
-**Technologies:** LangChain • LangGraph • Ollama • DeepSeek R1 • QWEN • LLAMA • FAISS
+**🎯 Technologies:** LangChain • LangGraph • Ollama • DeepSeek R1 • QWEN • LLAMA • FAISS
 
 </div>
 
@@ -98,34 +73,9 @@
 </details>
 
 <details>
-<summary><strong>🔧 Master LangGraph and LangChain with Ollama</strong></summary>
+<summary><strong>⚡ Master Langchain v1 and Ollama - Chatbot, RAG and AI Agents</strong></summary>
 
-> **🎯 Agentic RAG and Chatbot, AI Agent, DeepSeek, LLAMA 3.2 Agent, FAISS Vector Database**
-
-**Build Production Chatbots:**
-- 💬 **Memory-Enabled Chatbots:** Dynamic conversations with persistent memory
-- 🗄️ **Database Integration:** Seamless MySQL query execution with LLMs
-- 📈 **State Management:** LangGraph workflows with advanced state machines
-- 🎯 **Private Data RAG:** Custom embeddings and vector database integration
-
-<div align="center">
-
-**Technologies:** LangGraph • LangChain • Ollama • DeepSeek • LLAMA 3.2 • MySQL • FAISS
-
-</div>
-
-<div align="center">
-<a href="https://kgptalkie.com/langgraph" target="_blank">
-<img src="https://img.shields.io/badge/🎓_Enroll_Now_→-2196F3?style=for-the-badge&logoColor=white&labelColor=2196F3" alt="Enroll Now" width="200"/>
-</a>
-</div>
-
-</details>
-
-<details>
-<summary><strong>⚡ Master Langchain and Ollama - Chatbot, RAG and Agents</strong></summary>
-
-> **🎯 Master Langchain v0.3, Local LLM Projects, Ollama, DeepSeek, LLAMA 3.2, Complete Integration Guide**
+> **🎯 Master Langchain v1, Local LLM Projects, Ollama, DeepSeek, LLAMA 3.2, Complete Integration Guide**
 
 **Complete LangChain Journey:**
 - 🛠️ **Setup & Integration:** Professional Ollama and Langchain configuration
@@ -136,7 +86,7 @@
 
 <div align="center">
 
-**Technologies:** Langchain v0.3 • Ollama • DeepSeek • LLAMA 3.2 • Streamlit • AWS EC2
+**🎯 Technologies:** Langchain v1 • Ollama • DeepSeek • LLAMA 3.2 • Streamlit • AWS EC2
 
 </div>
 
@@ -149,32 +99,61 @@
 </details>
 
 <details>
-<summary><strong>🔬 Fine Tuning LLM with Hugging Face Transformers for NLP</strong></summary>
+<summary><strong>🔧 Master LangGraph v1 and Ollama - Build Gen AI Agents</strong></summary>
 
-> **🎯 Learn transformer architecture fundamentals and fine-tune LLMs with custom datasets**
+> **🎯 Agentic RAG and Chatbot, AI Agent, DeepSeek, LLAMA 3.2 Agent, FAISS Vector Database**
 
-**Advanced LLM Customization:**
-- 🧠 **Transformer Deep Dive:** Architecture fundamentals and mathematical foundations
-- 📊 **Custom Dataset Preparation:** Data preprocessing and formatting techniques
-- ⚡ **Fine-tuning Mastery:** Advanced optimization and training strategies
-- 🎯 **Model Optimization:** Performance tuning and evaluation methodologies
+**Build Production Chatbots:**
+- 💬 **Memory-Enabled Chatbots:** Dynamic conversations with persistent memory
+- 🗄️ **Database Integration:** Seamless MySQL query execution with LLMs
+- 📈 **State Management:** LangGraph workflows with advanced state machines
+- 🎯 **Private Data RAG:** Custom embeddings and vector database integration
 
 <div align="center">
 
-**Technologies:** Hugging Face Transformers • PyTorch • Custom Datasets • Advanced NLP
+**🎯 Technologies:** LangGraph v1 • LangChain • Ollama • DeepSeek • LLAMA 3.2 • MySQL • FAISS
 
 </div>
 
 <div align="center">
-<a href="https://kgptalkie.com/fine-tuning-llm" target="_blank">
-<img src="https://img.shields.io/badge/🎓_Enroll_Now_→-FF9800?style=for-the-badge&logoColor=white&labelColor=FF9800" alt="Enroll Now" width="200"/>
+<a href="https://kgptalkie.com/langgraph" target="_blank">
+<img src="https://img.shields.io/badge/🎓_Enroll_Now_→-2196F3?style=for-the-badge&logoColor=white&labelColor=2196F3" alt="Enroll Now" width="200"/>
+</a>
+</div>
+
+</details>
+
+### 🤖 AI Agents & Advanced
+
+<details>
+<summary><strong>🚀 Agentic AI: Deploy LangChain v1 Agent Projects to Production</strong></summary>
+
+> **🎯 Build real AI agents using LangChain and Google Gemini — deploy with FastAPI and AWS EC2**
+
+**What You'll Master:**
+- ✅ **Agent Architecture:** ReAct reasoning, tool calling, and structured decision making
+- ✅ **Memory Systems:** Short-term and long-term memory using databases and embeddings
+- ✅ **Safety & Guardrails:** Human-in-the-loop, middleware controls, and sandboxed code execution
+- ✅ **Production APIs:** FastAPI REST endpoints with validation, CORS, and SSE streaming
+- ✅ **Full-Stack AI Apps:** Streamlit UI connected to LangChain agents
+- ✅ **Cloud Deployment:** Deploy AI agents on AWS EC2 with MCP integration
+
+<div align="center">
+
+**🎯 Technologies:** LangChain v1 • Google Gemini • FastAPI • Streamlit • AWS EC2 • MCP • Python
+
+</div>
+
+<div align="center">
+<a href="https://kgptalkie.com/ai-agent-projects" target="_blank">
+<img src="https://img.shields.io/badge/🎓_Enroll_Now_→-673AB7?style=for-the-badge&logoColor=white&labelColor=673AB7" alt="Enroll Now" width="200"/>
 </a>
 </div>
 
 </details>
 
 <details>
-<summary><strong>🤖 Deep Agent & Multi-Agent Systems with Gemini and LangChain</strong></summary>
+<summary><strong>🤖 Deep Agent - Multi Agent RAG with Gemini and Langchain</strong></summary>
 
 > **🎯 Build real-world AI agents and deep research systems using Google Gemini, LangChain v1, MCP, and modern RAG techniques**
 
@@ -201,27 +180,52 @@
 </details>
 
 <details>
-<summary><strong>🚀 Agentic AI: Deploy LangChain v1 Agent Projects to Production</strong></summary>
+<summary><strong>🔬 Fine Tuning LLM with Hugging Face Transformers for NLP</strong></summary>
 
-> **🎯 Build real AI agents using LangChain and Google Gemini — deploy with FastAPI and AWS EC2**
+> **🎯 Learn transformer architecture fundamentals and fine-tune LLMs with custom datasets**
 
-**What You'll Master:**
-- ✅ **Agent Architecture:** ReAct reasoning, tool calling, and structured decision making
-- ✅ **Memory Systems:** Short-term and long-term memory using databases and embeddings
-- ✅ **Safety & Guardrails:** Human-in-the-loop, middleware controls, and sandboxed code execution
-- ✅ **Production APIs:** FastAPI REST endpoints with validation, CORS, and SSE streaming
-- ✅ **Full-Stack AI Apps:** Streamlit UI connected to LangChain agents
-- ✅ **Cloud Deployment:** Deploy AI agents on AWS EC2 with MCP integration
+**Advanced LLM Customization:**
+- 🧠 **Transformer Deep Dive:** Architecture fundamentals and mathematical foundations
+- 📊 **Custom Dataset Preparation:** Data preprocessing and formatting techniques
+- ⚡ **Fine-tuning Mastery:** Advanced optimization and training strategies
+- 🎯 **Model Optimization:** Performance tuning and evaluation methodologies
 
 <div align="center">
 
-**🎯 Technologies:** LangChain v1 • Google Gemini • FastAPI • Streamlit • AWS EC2 • MCP • Python
+**🎯 Technologies:** Hugging Face Transformers • PyTorch • Custom Datasets • Advanced NLP
 
 </div>
 
 <div align="center">
-<a href="https://kgptalkie.com/ai-agent-projects" target="_blank">
-<img src="https://img.shields.io/badge/🎓_Enroll_Now_→-673AB7?style=for-the-badge&logoColor=white&labelColor=673AB7" alt="Enroll Now" width="200"/>
+<a href="https://kgptalkie.com/fine-tuning-llm" target="_blank">
+<img src="https://img.shields.io/badge/🎓_Enroll_Now_→-FF9800?style=for-the-badge&logoColor=white&labelColor=FF9800" alt="Enroll Now" width="200"/>
+</a>
+</div>
+
+</details>
+
+<details>
+<summary><strong>🎯 Master OpenAI Agent Builder - Deploy Chatbot to Your Website</strong></summary>
+
+> **🎯 Build and deploy AI agents visually using OpenAI Agent Builder, ChatKit, RAG, Chatbot, AI Assistant with MCP, AWS, RDS MySQL**
+
+**What You'll Master:**
+- ✅ **Visual AI Development:** Build AI agents without complex coding using OpenAI Agent Builder
+- ✅ **Real-World Integration:** Connect AI workflows with MySQL, AWS, and MCP connectors
+- ✅ **Production Deployment:** Deploy AI agents with ChatKit and Guardrails for safety
+- ✅ **Complete Projects:** Weather Agent, RAG Document Q&A Chatbot, E-Commerce AI Assistant
+- ✅ **Database Integration:** AWS RDS MySQL connection and management
+- ✅ **Cloud Deployment:** AWS Lambda and API Gateway for production use
+
+<div align="center">
+
+**🎯 Technologies:** OpenAI Agent Builder • ChatKit • AWS • RDS MySQL • MCP • Lambda • API Gateway
+
+</div>
+
+<div align="center">
+<a href="https://kgptalkie.com/agent-builder" target="_blank">
+<img src="https://img.shields.io/badge/🎓_Enroll_Now_→-00A67E?style=for-the-badge&logoColor=white&labelColor=00A67E" alt="Enroll Now" width="200"/>
 </a>
 </div>
 
