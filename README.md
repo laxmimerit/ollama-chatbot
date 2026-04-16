@@ -4,9 +4,9 @@
 
 ![KGP Talkie](https://github.com/laxmimerit/Important-Announcement-on-ML/raw/master/kgptalkie_strips.png)
 
-[![AI Development](https://img.shields.io/badge/AI-Development-blue?style=for-the-badge&logo=openai)](https://www.udemy.com/course/master-openai-agent-builder-low-code-ai-projects-workflow/?referralCode=B0B67D18B1013E488FB7)
-[![LangChain](https://img.shields.io/badge/LangChain-Latest-green?style=for-the-badge&logo=chainlink)](https://www.udemy.com/course/agentic-rag-with-langchain-and-langgraph/?referralCode=C0BCC208F53AF2C98AC5)
-[![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange?style=for-the-badge&logo=tensorflow)](https://www.udemy.com/course/python-for-machine-learning-and-data-science-projects/?referralCode=C2A381E2EC08C84FFBFE)
+[![AI Development](https://img.shields.io/badge/AI-Development-blue?style=for-the-badge&logo=openai)](https://kgptalkie.com/agent-builder)
+[![LangChain](https://img.shields.io/badge/LangChain-Latest-green?style=for-the-badge&logo=chainlink)](https://kgptalkie.com/agentic-rag)
+[![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange?style=for-the-badge&logo=tensorflow)](https://kgptalkie.com/machine-learning)
 [![Students](https://img.shields.io/badge/Students-100K+-red?style=for-the-badge&logo=graduation-cap)](https://www.udemy.com/user/laxmi-kant-tiwari/)
 
 **Master AI Development • Build Production Applications • Deploy at Scale**
@@ -39,7 +39,7 @@
 </div>
 
 <div align="center">
-<a href="https://www.udemy.com/course/master-openai-agent-builder-low-code-ai-projects-workflow/?referralCode=B0B67D18B1013E488FB7" target="_blank">
+<a href="https://kgptalkie.com/agent-builder" target="_blank">
 <img src="https://img.shields.io/badge/🎓_Enroll_Now_→-00A67E?style=for-the-badge&logoColor=white&labelColor=00A67E" alt="Enroll Now" width="200"/>
 </a>
 </div>
@@ -65,7 +65,7 @@
 </div>
 
 <div align="center">
-<a href="https://www.udemy.com/course/mcp-mastery-build-ai-apps-with-claude-langchain-and-ollama/?referralCode=31C17C306A59601B8689" target="_blank">
+<a href="https://kgptalkie.com/mcp" target="_blank">
 <img src="https://img.shields.io/badge/🎓_Enroll_Now_→-FF6B35?style=for-the-badge&logoColor=white&labelColor=FF6B35" alt="Enroll Now" width="200"/>
 </a>
 </div>
@@ -90,7 +90,7 @@
 </div>
 
 <div align="center">
-<a href="https://www.udemy.com/course/agentic-rag-with-langchain-and-langgraph/?referralCode=C0BCC208F53AF2C98AC5" target="_blank">
+<a href="https://kgptalkie.com/agentic-rag" target="_blank">
 <img src="https://img.shields.io/badge/🎓_Enroll_Now_→-4CAF50?style=for-the-badge&logoColor=white&labelColor=4CAF50" alt="Enroll Now" width="200"/>
 </a>
 </div>
@@ -115,7 +115,7 @@
 </div>
 
 <div align="center">
-<a href="https://www.udemy.com/course/langgraph-with-ollama/?referralCode=B646DCB44A189BEBC20C" target="_blank">
+<a href="https://kgptalkie.com/langgraph" target="_blank">
 <img src="https://img.shields.io/badge/🎓_Enroll_Now_→-2196F3?style=for-the-badge&logoColor=white&labelColor=2196F3" alt="Enroll Now" width="200"/>
 </a>
 </div>
@@ -141,7 +141,7 @@
 </div>
 
 <div align="center">
-<a href="https://www.udemy.com/course/ollama-and-langchain/?referralCode=7F4C0C7B8CF223BA9327" target="_blank">
+<a href="https://kgptalkie.com/langchain" target="_blank">
 <img src="https://img.shields.io/badge/🎓_Enroll_Now_→-9C27B0?style=for-the-badge&logoColor=white&labelColor=9C27B0" alt="Enroll Now" width="200"/>
 </a>
 </div>
@@ -166,8 +166,89 @@
 </div>
 
 <div align="center">
-<a href="https://www.udemy.com/course/fine-tuning-llm-with-hugging-face-transformers/?referralCode=6DEB3BE17C2644422D8E" target="_blank">
+<a href="https://kgptalkie.com/fine-tuning-llm" target="_blank">
 <img src="https://img.shields.io/badge/🎓_Enroll_Now_→-FF9800?style=for-the-badge&logoColor=white&labelColor=FF9800" alt="Enroll Now" width="200"/>
+</a>
+</div>
+
+</details>
+
+<details>
+<summary><strong>🤖 Deep Agent & Multi-Agent Systems with Gemini and LangChain</strong></summary>
+
+> **🎯 Build real-world AI agents and deep research systems using Google Gemini, LangChain v1, MCP, and modern RAG techniques**
+
+**What You'll Master:**
+- ✅ **Agent Foundations:** ReAct patterns, tool calling, memory, and state management
+- ✅ **Gemini + LangChain Bootcamp:** Streaming, multimodal inputs, function calling, and context caching
+- ✅ **MCP Finance Agent:** Connect Yahoo Finance MCP server as LangChain tools for stock research
+- ✅ **Multimodal Deep RAG:** Extract and process financial PDFs, tables, and images with Docling
+- ✅ **Qdrant Vector Database:** Hybrid search, sparse+dense retrieval, metadata filtering, and de-duplication
+- ✅ **Multi-Agent Systems:** Supervisor agents, specialist routing, and cross-encoder re-ranking
+
+<div align="center">
+
+**🎯 Technologies:** Google Gemini • LangChain v1 • LangGraph • MCP • Qdrant • Docling • Python
+
+</div>
+
+<div align="center">
+<a href="https://kgptalkie.com/deep-agent" target="_blank">
+<img src="https://img.shields.io/badge/🎓_Enroll_Now_→-F44336?style=for-the-badge&logoColor=white&labelColor=F44336" alt="Enroll Now" width="200"/>
+</a>
+</div>
+
+</details>
+
+<details>
+<summary><strong>🚀 Agentic AI: Deploy LangChain v1 Agent Projects to Production</strong></summary>
+
+> **🎯 Build real AI agents using LangChain and Google Gemini — deploy with FastAPI and AWS EC2**
+
+**What You'll Master:**
+- ✅ **Agent Architecture:** ReAct reasoning, tool calling, and structured decision making
+- ✅ **Memory Systems:** Short-term and long-term memory using databases and embeddings
+- ✅ **Safety & Guardrails:** Human-in-the-loop, middleware controls, and sandboxed code execution
+- ✅ **Production APIs:** FastAPI REST endpoints with validation, CORS, and SSE streaming
+- ✅ **Full-Stack AI Apps:** Streamlit UI connected to LangChain agents
+- ✅ **Cloud Deployment:** Deploy AI agents on AWS EC2 with MCP integration
+
+<div align="center">
+
+**🎯 Technologies:** LangChain v1 • Google Gemini • FastAPI • Streamlit • AWS EC2 • MCP • Python
+
+</div>
+
+<div align="center">
+<a href="https://kgptalkie.com/ai-agent-projects" target="_blank">
+<img src="https://img.shields.io/badge/🎓_Enroll_Now_→-673AB7?style=for-the-badge&logoColor=white&labelColor=673AB7" alt="Enroll Now" width="200"/>
+</a>
+</div>
+
+</details>
+
+<details>
+<summary><strong>🔍 Advanced RAG: Build & Deploy Production GenAI Apps</strong></summary>
+
+> **🎯 Build RAGWire — a production-grade RAG toolkit with LangChain, Qdrant, and LangGraph — from hybrid search to multi-cloud deployment**
+
+**What You'll Master:**
+- ✅ **Hybrid RAG Pipeline:** BM25 sparse + dense retrieval with Reciprocal Rank Fusion (RRF)
+- ✅ **Multi-LLM Support:** OpenAI GPT, Groq, Google Gemini, Ollama, and HuggingFace embeddings
+- ✅ **Agentic RAG:** Self-correcting agents that grade retrieval quality and rewrite queries
+- ✅ **Multi-Agent Systems:** Supervisor agents with CrewAI, Microsoft AutoGen, and LangGraph routing
+- ✅ **Production UI & API:** Chainlit chat UI with auth + FastAPI OpenAI-compatible endpoints with SSE
+- ✅ **Multi-Cloud Deployment:** Render, Railway, AWS ECS Fargate, GCP Cloud Run, and Azure
+
+<div align="center">
+
+**🎯 Technologies:** LangChain • Qdrant • LangGraph • CrewAI • AutoGen • Chainlit • FastAPI • OpenAI • Groq • Gemini
+
+</div>
+
+<div align="center">
+<a href="https://kgptalkie.com/advanced-rag" target="_blank">
+<img src="https://img.shields.io/badge/🎓_Enroll_Now_→-00BCD4?style=for-the-badge&logoColor=white&labelColor=00BCD4" alt="Enroll Now" width="200"/>
 </a>
 </div>
 
@@ -196,7 +277,7 @@
 </div>
 
 <div align="center">
-<a href="https://www.udemy.com/course/python-for-deep-learning-and-artificial-intelligence/?referralCode=657DFC7FE7AF949837DA" target="_blank">
+<a href="https://kgptalkie.com/deep-learning" target="_blank">
 <img src="https://img.shields.io/badge/🎓_Enroll_Now_→-E91E63?style=for-the-badge&logoColor=white&labelColor=E91E63" alt="Enroll Now" width="200"/>
 </a>
 </div>
@@ -248,7 +329,7 @@
 </div>
 
 <div align="center">
-<a href="https://www.udemy.com/course/python-for-advanced-linear-regression-masterclass/?referralCode=5274985E3FE09AE414DC" target="_blank">
+<a href="https://kgptalkie.com/regression" target="_blank">
 <img src="https://img.shields.io/badge/🎓_Enroll_Now_→-795548?style=for-the-badge&logoColor=white&labelColor=795548" alt="Enroll Now" width="200"/>
 </a>
 </div>
@@ -274,7 +355,7 @@
 </div>
 
 <div align="center">
-<a href="https://www.udemy.com/course/python-for-machine-learning-and-data-science-projects/?referralCode=C2A381E2EC08C84FFBFE" target="_blank">
+<a href="https://kgptalkie.com/machine-learning" target="_blank">
 <img src="https://img.shields.io/badge/🎓_Enroll_Now_→-009688?style=for-the-badge&logoColor=white&labelColor=009688" alt="Enroll Now" width="200"/>
 </a>
 </div>
@@ -300,7 +381,7 @@
 </div>
 
 <div align="center">
-<a href="https://www.udemy.com/course/nlp-in-python/?referralCode=6D42C8883D3EF9461538" target="_blank">
+<a href="https://kgptalkie.com/nlp" target="_blank">
 <img src="https://img.shields.io/badge/🎓_Enroll_Now_→-FF5722?style=for-the-badge&logoColor=white&labelColor=FF5722" alt="Enroll Now" width="200"/>
 </a>
 </div>
@@ -330,7 +411,7 @@
 </div>
 
 <div align="center">
-<a href="https://www.udemy.com/course/nlp-with-bert-in-python/?referralCode=063516494616C76907CD" target="_blank">
+<a href="https://kgptalkie.com/deploy-ml-model" target="_blank">
 <img src="https://img.shields.io/badge/🎓_Enroll_Now_→-3F51B5?style=for-the-badge&logoColor=white&labelColor=3F51B5" alt="Enroll Now" width="200"/>
 </a>
 </div>
@@ -371,11 +452,11 @@
 
 ### **🔧 Complete Technology Stack**
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.udemy.com/course/python-for-machine-learning-and-data-science-projects/?referralCode=C2A381E2EC08C84FFBFE)
-[![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)](https://www.udemy.com/course/ollama-and-langchain/?referralCode=7F4C0C7B8CF223BA9327)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.udemy.com/course/python-for-deep-learning-and-artificial-intelligence/?referralCode=657DFC7FE7AF949837DA)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://www.udemy.com/course/fine-tuning-llm-with-hugging-face-transformers/?referralCode=6DEB3BE17C2644422D8E)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://www.udemy.com/course/nlp-with-bert-in-python/?referralCode=063516494616C76907CD)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://kgptalkie.com/machine-learning)
+[![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)](https://kgptalkie.com/langchain)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://kgptalkie.com/deep-learning)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://kgptalkie.com/fine-tuning-llm)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://kgptalkie.com/deploy-ml-model)
 
 </div>
 
@@ -436,6 +517,12 @@ Master LangGraph and LangChain with Ollama
 ↓
 Agentic RAG with LangChain and LangGraph - Ollama
 ↓
+Advanced RAG: Build & Deploy Production GenAI Apps
+↓
+Agentic AI: Deploy LangChain v1 Agent Projects to Production
+↓
+Deep Agent & Multi-Agent Systems with Gemini and LangChain
+↓
 MCP Mastery: Build AI Apps with Claude, LangChain and Ollama
 ↓
 Fine Tuning LLM with Hugging Face Transformers for NLP
@@ -481,6 +568,12 @@ Master LangGraph and LangChain with Ollama
 ↓
 Agentic RAG with LangChain and LangGraph - Ollama
 ↓
+Advanced RAG: Build & Deploy Production GenAI Apps
+↓
+Agentic AI: Deploy LangChain v1 Agent Projects to Production
+↓
+Deep Agent & Multi-Agent Systems with Gemini and LangChain
+↓
 MCP Mastery: Build AI Apps with Claude, LangChain and Ollama
 ↓
 Advanced Machine Learning and Deep Learning Projects
@@ -518,7 +611,7 @@ Fine Tuning LLM with Hugging Face Transformers for NLP
 |---------------|-------------------|
 | **Total Students** | 100,000+ Active Learners |
 | **Course Rating** | ⭐⭐⭐⭐⭐ (4.8/5.0) |
-| **Courses Available** | 11+ Comprehensive Programs |
+| **Courses Available** | 14+ Comprehensive Programs |
 | **Hours of Content** | 100+ Hours of Learning |
 | **Projects Included** | 50+ Hands-on Projects |
 | **Technologies Covered** | 30+ Modern Frameworks |
